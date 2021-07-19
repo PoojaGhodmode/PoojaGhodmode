@@ -30,7 +30,8 @@
 <div align = "center">
 <details>
    <summary>More about me</summary>
-
+  
+ <img src = "https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width = 100px/>
 <h3>Top Languages</h3>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaGhodmode&langs_count=5&theme=tokyonight" alt="Pooja Ghodmode's Top languages" />
 

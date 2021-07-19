@@ -6,7 +6,7 @@
 <p> 💬 Talk to me about Django, Javascript or cats😸. </p>
 <p>👩 Pronouns: She / Her </p>
 <hr/>
-<h3 align="center">📫 How to reach me <img src = "https://media.giphy.com/media/dz7r1lrzn55rKPrL3Q/giphy.gif" width = 50px/> </h3>
+<h3 align="center">📫 Reach me at <img src = "https://media.giphy.com/media/dz7r1lrzn55rKPrL3Q/giphy.gif" width = 50px/> </h3>
 <div align= "center">
    <a href="https://twitter.com/PoojaGhodmode">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Pooja Ghodmode's Twitter Profile" height="25" width="30">
@@ -25,7 +25,22 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pooja Ghodmode's LinkedIn Profile" height="30" width="30">
   </a>
 </div>
+<hr/>
 
+<div align = "center">
+<details>
+   <summary>More about me</summary>
+
+<h3>Top Languages</h3>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaGhodmode&langs_count=5&theme=tokyonight" alt="Pooja Ghodmode's Top languages" />
+
+
+<h3>Profile stats:</h3>
+<img src = "https://github-readme-stats.vercel.app/api/?username=PoojaGhodmode&count_private=true&theme=tokyonight&showicons=true" alt="Pooja Ghodmode's Profile stats"/>
+
+
+</details>
+   </div>
 
 
 
